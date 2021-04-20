@@ -1,4 +1,4 @@
-[Save file as reckz.pl, Put it in Perl/Bin]
+[Save file as Dead.pl, Put it in Perl/Bin]
 
 #!/usr/bin/perl START SCRIPT
 
